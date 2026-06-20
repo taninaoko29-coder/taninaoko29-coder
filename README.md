@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 こんにちは！
 
-<!--
-**taninaoko29-coder/taninaoko29-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+現場の課題に寄り添い、ITの力で解決策を創り出せるシステムエンジニアを目指して学習中の大学3年生です。
+経営システム工学の視点を活かし、「作って終わり」ではなく「業務フローの標準化・効率化」までを見据えた開発を心掛けています。
 
-Here are some ideas to get you started:
+### 🚀 Projects / 制作物
+* **[Call-Sync](https://github.com/taninaoko29-coder/Call-Sync)**
+  * **概要:** コールセンターのアルバイト先で生じていた「エスカレーションによる保留時間の長期化」という課題を解決するためのナレッジ共有掲示板。
+  * **技術:** PHP / MySQL
+  * **工夫点:** 現場での導入しやすさを考慮し、1ファイルで動作するセキュアなシステムを設計しました。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 これからやりたいこと
+コールセンターの課題解決アプリに続き、今後は自身が運営に携わっている中高生の居場所作り（サードプレイス）活動を支援するような、人と人を繋ぐWebサービスの企画・開発にも挑戦していきたいです！
+
+### 💬 言語・ツール
+HTML / CSS / PHP / MySQL / Git / GitHub
